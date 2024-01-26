@@ -1,0 +1,46 @@
+[
+  {
+    "img": "tortank.png",
+    "nom": "tortank",
+    "type": "evian",
+    "statistiques": {
+      "vie": 50,
+      "attaque": 46,
+      "defense": 15,
+      "rencontrer": false
+    }
+  },
+  {
+    "img": "ectoplasma.png",
+    "nom": "Ectoplasma",
+    "type": "tenebreux",
+    "statistiques": {
+      "vie": 50,
+      "attaque": 46,
+      "defense": 15,
+      "rencontrer": true
+    }
+  },
+  {
+    "img": "",
+    "nom": "Ryu",
+    "type": "Patate de forain",
+    "statistiques": {
+      "vie": 65,
+      "attaque": 38,
+      "defense": 12,
+      "rencontrer": false
+    }
+  },
+  {
+    "img": "dracokwak.png",
+    "nom": "Dracokwak",
+    "type": "Brullure indienne",
+    "statistiques": {
+      "vie": 200,
+      "attaque": 3,
+      "defense": 1,
+      "rencontrer": false
+    }
+  }
+]
